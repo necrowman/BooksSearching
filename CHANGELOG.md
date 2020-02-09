@@ -1,4 +1,10 @@
-Changelog
+###Changelog
+
+09/02/2020 12:12
+
+- added Podfile
+- added Alamofire
+- added SnapKit
 
 09/02/2020 11:45
 - added initial project;

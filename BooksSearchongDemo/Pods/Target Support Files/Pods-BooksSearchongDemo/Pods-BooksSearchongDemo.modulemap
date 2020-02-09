@@ -1,0 +1,6 @@
+framework module Pods_BooksSearchongDemo {
+  umbrella header "Pods-BooksSearchongDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
