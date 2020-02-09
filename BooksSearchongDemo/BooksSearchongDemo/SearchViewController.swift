@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SearchViewController.swift
 //  BooksSearchongDemo
 //
 //  Created by Ruslan Yupyn on 09.02.2020.
@@ -8,13 +8,17 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SearchViewController: UIViewController {
 
+    @IBOutlet weak var serchText: UITextField!
+     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBAction func searchButtonTapped(_ sender: Any) {
+        print("\(serchText.text ?? "") was entered...")
+    }
 }
 
