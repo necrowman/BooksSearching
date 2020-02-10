@@ -1,6 +1,8 @@
 # Changelog
 
 10/02/2020 
+- added SwiftyJSON;
+- added Nuke;
 - added books parsing;
 - added list of books screen;
 - added book view screen;
