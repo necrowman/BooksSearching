@@ -1,6 +1,6 @@
 BooksSearching
 ==============
-⌘⌘
+
 This is a test project for searching books from https://openlibrary.org/dev/docs/api
 
 This **_BooksSearchingDemo App_** demonstrate using [**Alamofire**](https://github.com/Alamofire/Alamofire) with [**SwiftyJSON**](https://github.com/SwiftyJSON/SwiftyJSON) for parsing requests.
